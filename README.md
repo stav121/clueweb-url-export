@@ -15,12 +15,12 @@ Run the script
 
 <h3>About</h3>
 
-This script can be used to export URLs from ClueWeb database (warc format) and export them into JSON
+This script can be used to extract URLs from ClueWeb database (warc format) and export them into JSON
 and Plain Text format. It's easy to modify to your needs.
 
 It has been tested with ClueWeb09 and works fine.
 
-It takes a few hours to export a whole subfolder from ClueWeb but it does the job.
+It takes a few hours to export a whole subdirectory from ClueWeb but it does the job.
 
 <h3>Support this project</h3>
 
