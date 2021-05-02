@@ -22,10 +22,6 @@ It has been tested with ClueWeb09 and works fine.
 
 It takes a few hours to export a whole subdirectory from ClueWeb but it does the job.
 
-<h3>Support this project</h3>
-
-Patreon: https://www.patreon.com/unix121
-
 <h3>Author</h3>
 
 Stavros Grigoriou (unix121)
